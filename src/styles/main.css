@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-image: url('/Game-dio-desafio/src/images/background.jpg');
+    background-image: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4');
 }
 .menu {
     display: flex;
@@ -44,6 +44,7 @@
 margin-top: 1rem;
 
 }
+
 
 
 
